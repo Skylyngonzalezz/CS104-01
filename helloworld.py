@@ -1,2 +1,3 @@
-#this is version 1 of my hello world program
-print("hello my name is skylyn")
+#this is version 2 of my hello world program
+print("hello my name is skylyn gonzalez")
+
